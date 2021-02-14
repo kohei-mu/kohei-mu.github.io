@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+## Data Sci/Eng
 
-You can use the [editor on GitHub](https://github.com/kohei-mu/kohei-mu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Technical Interests
+* Machine Learning
+* Natural Language Processing
+* Data System Architecture
+* Statistical Analysis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Works/Projects
+### Data Analysis
+* Network Traffic [Anomaly Detection]
+* Server Resource [Anomaly Detection]
+* Machining Data(CNC/PLC/IoT sensors) [Anomaly Detection & Operation Optimization]
+* DC(Data Center) Operation Condition [Operation Optimization]
+* Karaoke Big Data [Music Recommendation]
+* Fashion Product [Sales Optimization]
 
-### Markdown
+### System Development
+* Anomaly detection system for network traffic and server resource
+* Data visualization and analysis system for manufacturing plant
+* Condition monitoring platform for manufacturing plant
+* Data analysis system for karaoke big data
+* Monitoring and analysis platform using IoT sensors
+* Monitoring and analysis system for DC
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Kaggle Project
+* [CNC milling machine - Tool Wear Detection](https://www.kaggle.com/koheimuramatsu/cnc-milling-machine-tool-wear-detection)
+* [Industrial Accident Causal Analysis](https://www.kaggle.com/koheimuramatsu/industrial-accident-causal-analysis)
+* [NLP Preprocessing Functions](https://www.kaggle.com/koheimuramatsu/nlp-preprocessing-functions)
+* [IoT Temperature Forecasting](https://www.kaggle.com/koheimuramatsu/iot-temperature-forecasting)
+* [Change Detection & Forecasting in Smart Home](https://www.kaggle.com/koheimuramatsu/change-detection-forecasting-in-smart-home)
+* [Industrial Machine Anomaly Detection](https://www.kaggle.com/koheimuramatsu/industrial-machine-anomaly-detection)
 
-```markdown
-Syntax highlighted code block
+## Education
+* 2014-2016, M.E., Nara Institute of Science and Technology (NAIST)
+* 2010-2014, B.A., Tokyo University of Foreign Studies
 
-# Header 1
-## Header 2
-### Header 3
+## Publications
+* [Word Sense Disambiguation for Pivot translation using Topic Model(トピックモデルを利用したピボット翻訳の 語義曖昧性解消)](http://library.naist.jp/mylimedio/dllimedio/show.cgi?bookid=100215003)
+* [Hindi-English machine translation using pre-reordering model( 事前並べ替えを利用したヒンディー語－英語統計的機械翻訳 )](http://www.anlp.jp/proceedings/annual_meeting/2015/pdf_dir/P4-20.pdf)
 
-- Bulleted
-- List
+## Skills
+### Natural Languages
+* Japanese (native)
+* English (business level, TOEIC 875)
+* Chinese (elementary, HSK level 5)
+* Hindi (elementary)
 
-1. Numbered
-2. List
+### Programming Languages
+* Python
+* R
+* Java
+* JavaScript
+* Go
 
-**Bold** and _Italic_ and `Code` text
+### Tools
+* Hadoop Ecosystem
+* MySQL
+* Elasticsearch
+* Cassandra
+* PostgreSQL
+* Haproxy
+* Logstash
+* Docker
+* Kubernetes
+* Grafana
 
-[Link](url) and ![Image](src)
-```
+## Qualification
+* HSK Level 5
+* ISTQB Foundation Level
+* Kaggle Expert
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact
+kendo7bharat [at] gmail.com
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kohei-mu/kohei-mu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## More Info
+* [LinkedIn](https://www.linkedin.com/in/kohei-muramatsu-433471114/)
+* [GitHub](https://github.com/kohei-mu)
+* [Kaggle](https://www.kaggle.com/koheimuramatsu)
