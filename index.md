@@ -1,5 +1,3 @@
-## Data Sci/Eng
-
 ## Technical Interests
 * Machine Learning
 * Natural Language Processing
@@ -36,8 +34,8 @@
 * 2010-2014, B.A., Tokyo University of Foreign Studies
 
 ## Publications
-* [Word Sense Disambiguation for Pivot translation using Topic Model(トピックモデルを利用したピボット翻訳の 語義曖昧性解消)](http://library.naist.jp/mylimedio/dllimedio/show.cgi?bookid=100215003)
-* [Hindi-English machine translation using pre-reordering model( 事前並べ替えを利用したヒンディー語－英語統計的機械翻訳 )](http://www.anlp.jp/proceedings/annual_meeting/2015/pdf_dir/P4-20.pdf)
+* [Word Sense Disambiguation for Pivot translation using Topic Model (トピックモデルを利用したピボット翻訳の 語義曖昧性解消)](http://library.naist.jp/mylimedio/dllimedio/show.cgi?bookid=100215003)
+* [Hindi-English machine translation using pre-reordering model (事前並べ替えを利用したヒンディー語－英語統計的機械翻訳)](http://www.anlp.jp/proceedings/annual_meeting/2015/pdf_dir/P4-20.pdf)
 
 ## Skills
 ### Natural Languages
