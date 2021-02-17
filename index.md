@@ -30,6 +30,7 @@
 * [IoT Temperature Forecasting](https://www.kaggle.com/koheimuramatsu/iot-temperature-forecasting)
 * [Change Detection & Forecasting in Smart Home](https://www.kaggle.com/koheimuramatsu/change-detection-forecasting-in-smart-home)
 * [Industrial Machine Anomaly Detection](https://www.kaggle.com/koheimuramatsu/industrial-machine-anomaly-detection)
+* [NLP Feature Engineering for Twitter Analysis](https://www.kaggle.com/koheimuramatsu/nlp-feature-engineering-for-twitter-analysis)
 
 ## Education
 * 2014-2016, M.E., Nara Institute of Science and Technology (NAIST)
